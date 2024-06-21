@@ -1,0 +1,10 @@
+1 Sunny Yes Rich Cinema
+2 Sunny No Rich Tennis
+3 Windy Yes Rich Cinema
+4 Rainy Yes Poor Cinema
+5 Rainy No Rich Stayin
+6 Rainy Yes Poor Cinema
+7 Windy No Poor Cinema
+8 Windy No Rich Shopping
+9 Windy Yes Rich Cinema
+10 Sunny No Rich Tennis
